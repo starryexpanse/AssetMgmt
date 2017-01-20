@@ -5,4 +5,8 @@ include
 lib
 pip-selfcheck.json
 .Python
+*/.DS_Store
+*/.pyc
 **/.DS_Store
+**/.pyc
+**/.
