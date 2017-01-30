@@ -1,0 +1,23 @@
+{
+  "name": "asset_mgmt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "webpack": "^1.14.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/starryexpanse/AssetMgmt.git"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/starryexpanse/AssetMgmt/issues"
+  },
+  "homepage": "https://github.com/starryexpanse/AssetMgmt#readme"
+}
